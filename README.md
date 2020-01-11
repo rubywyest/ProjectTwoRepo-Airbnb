@@ -25,8 +25,11 @@ Airbnb data analytics
 Detailing the process of extraction, transformation and loading
 
 •	Extract Process
+
  o	CSV to pull Airbnb data set for New York
+ 
  o	API call and Json to extract places of interest from Google Maps API
+ 
  o	Web Scrapping from Travel Top List html website
   
  •	Transformation Process
@@ -37,13 +40,19 @@ Detailing the process of extraction, transformation and loading
   
   
 Data Sources
+
  •	Kaggle data set for Airbnb_NYC rental listing
+ 
  •	Google Maps/Places – points of interest for NYC
+ 
  •	Travel Top List for NYC website
  
 Transformation 
+
  •	Clean up of data to removed unnecessary columns and add ids
+ 
  •	Created calculation fields using distance functions to store within database to aid with the main purpose of our data, merging rental    sites with points of interest
+ 
  •	Structure the data in a way to load into database
 
 Database
