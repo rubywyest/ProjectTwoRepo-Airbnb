@@ -26,11 +26,11 @@ Airbnb data analytics
 
 *	Extract Process
 
-   *	CSV to pull Airbnb data set for New York
+   -	CSV to pull Airbnb data set for New York
  
-   *	API call and Json to extract places of interest from Google Maps API
+   -	API call and Json to extract places of interest from Google Maps API
  
-   *	Web Scrapping from Travel Top List html website
+   -	Web Scrapping from Travel Top List html website
   
  *	Transformation Process
  
@@ -58,13 +58,18 @@ Airbnb data analytics
  •	Structure the data in a way to load into database
 
 ### Database
+
  •	Structure
+ 
  •	Easily add new cities and site locations for future interest
 
 ### Schema of database tables is provided in repo 
+
  •	See schema.sql
 
 ### Hypothetical Uses of Database
+
  •	Vacation rental selections based on point of interest in rental areas
+ 
  •	Add new cities for future
 
