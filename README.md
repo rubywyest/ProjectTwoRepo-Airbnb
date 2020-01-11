@@ -22,11 +22,11 @@ Airbnb data analytics
 
 ## Final Report
 
-Detailing the process of extraction, transformation and loading: 
- •	Extract Process
-  o	CSV to pull Airbnb data set for New York
-  o	API call and Json to extract places of interest from Google Maps API
-  o	Web Scrapping from Travel Top List html website
+Detailing the process of extraction, transformation and loading
+•	Extract Process
+ o	CSV to pull Airbnb data set for New York
+ o	API call and Json to extract places of interest from Google Maps API
+ o	Web Scrapping from Travel Top List html website
   
  •	Transformation Process
   o	Python
