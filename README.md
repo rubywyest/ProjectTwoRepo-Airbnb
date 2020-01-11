@@ -26,19 +26,19 @@ Airbnb data analytics
 
 *	Extract Process
 
-  *	CSV to pull Airbnb data set for New York
+   *	CSV to pull Airbnb data set for New York
  
-  *	API call and Json to extract places of interest from Google Maps API
+   *	API call and Json to extract places of interest from Google Maps API
  
-  *	Web Scrapping from Travel Top List html website
+   *	Web Scrapping from Travel Top List html website
   
- •	Transformation Process
+ *	Transformation Process
  
-   o	Python
+   *	Python
   
- •	Loading Process
+ *	Loading Process
  
-   o	PostgreSQL, pgAdmin4
+   *	PostgreSQL, pgAdmin4
   
   
 Data Sources
