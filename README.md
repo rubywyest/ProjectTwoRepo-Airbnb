@@ -41,7 +41,7 @@ Airbnb data analytics
    *	PostgreSQL, pgAdmin4
   
   
-Data Sources
+### Data Sources
 
  •	Kaggle data set for Airbnb_NYC rental listing
  
@@ -49,7 +49,7 @@ Data Sources
  
  •	Travel Top List for NYC website
  
-Transformation 
+### Transformation 
 
  •	Clean up of data to removed unnecessary columns and add ids
  
@@ -57,14 +57,14 @@ Transformation
  
  •	Structure the data in a way to load into database
 
-Database
+### Database
  •	Structure
  •	Easily add new cities and site locations for future interest
 
-Schema of database tables is provided in repo 
-•	See schema.sql
+### Schema of database tables is provided in repo 
+ •	See schema.sql
 
-Hypothetical Uses of Database
+### Hypothetical Uses of Database
  •	Vacation rental selections based on point of interest in rental areas
  •	Add new cities for future
 
