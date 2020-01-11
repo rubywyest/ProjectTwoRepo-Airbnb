@@ -74,7 +74,9 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "### Convert Raw Data to DataFrame\n"
+    "### Convert Raw Data to DataFrame\n",
+    "* Export the city data into a .csv.\n",
+    "* Display the DataFrame"
    ]
   },
   {
@@ -690,7 +692,7 @@
    "source": [
     "#view on response\n",
     "\n",
-    "response_list[0]"
+    "response_list[0]\n"
    ]
   },
   {
